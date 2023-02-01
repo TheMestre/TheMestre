@@ -23,5 +23,5 @@ Moro em  São Caetano do Sul - SP
 
 - Instagram: https://www.instagram.com/thiago_rc_/
 - Email: thiagorc4488@gmail.com
-- Meu Projeto: https://csb-fgzd9t.netlify.app/
+- Meu Projeto: https://csb-qqd8pv.netlify.app/
 - Linkedin: https://www.linkedin.com/in/thiago-rodrigues-costa-679bb8245/
